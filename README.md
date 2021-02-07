@@ -1,6 +1,11 @@
 # GIST API - UI
 
 ## How to run
+Add your Github Personal access token to .env file
+```
+REACT_APP_GITHUB_PERSONAL_TOKEN=<your_token>
+```
+then
 ```
 yarn start
 ```
