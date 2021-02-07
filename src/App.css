@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+.page-title {
+    color: white!important;
+}
+
+.site-layout-content {
+    width: 100%;
+}
